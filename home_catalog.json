@@ -3,7 +3,7 @@
     "last_updated": "2025-01-09",
     "sections": {
       "hero_featured": {
-        "appids": [730, 570, 1172470],
+        "appids": [2947440, 1145350, 1172470],
         "auto_rotate": true,
         "interval_seconds": 5
       },
@@ -21,3 +21,4 @@
       }
     }
   }
+
