@@ -1,0 +1,78 @@
+{
+  "section_title": "Featured Games - Buy Now",
+  "section_subtitle": "Get the best deals on these amazing games",
+  "games": [
+    {
+      "appid": 271590,
+      "name": "Grand Theft Auto V",
+      "description": "Experience the award-winning open world action-adventure",
+      "price": "$29.99",
+      "discount": "50%",
+      "buy_link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1091500,
+      "name": "Cyberpunk 2077",
+      "description": "An open-world action-adventure story set in Night City",
+      "price": "$39.99",
+      "discount": "33%",
+      "buy_link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1174180,
+      "name": "Red Dead Redemption 2",
+      "description": "Winner of over 175 Game of the Year Awards",
+      "price": "$34.99",
+      "discount": "42%",
+      "buy_link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1245620,
+      "name": "ELDEN RING",
+      "description": "The new fantasy action RPG from FromSoftware",
+      "price": "$44.99",
+      "discount": "25%",
+      "buy_link": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+      "platform": "Steam"
+    },
+    {
+      "appid": 570,
+      "name": "Dota 2",
+      "description": "The most-played game on Steam",
+      "price": "Free",
+      "discount": null,
+      "buy_link": "https://store.steampowered.com/app/570/Dota_2/",
+      "platform": "Steam"
+    },
+    {
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "description": "For over two decades, Counter-Strike has offered an elite competitive experience",
+      "price": "Free",
+      "discount": null,
+      "buy_link": "https://store.steampowered.com/app/730/CounterStrike_2/",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1938090,
+      "name": "Call of Duty®: Black Ops 6",
+      "description": "Call of Duty®: Black Ops 6 is signature Black Ops across a cinematic single-player Campaign",
+      "price": "$69.99",
+      "discount": null,
+      "buy_link": "https://store.steampowered.com/app/1938090/Call_of_Duty_Black_Ops_6/",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1174180,
+      "name": "Hogwarts Legacy",
+      "description": "Hogwarts Legacy is an immersive, open-world action RPG",
+      "price": "$49.99",
+      "discount": "17%",
+      "buy_link": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/",
+      "platform": "Steam"
+    }
+  ]
+}
