@@ -5,73 +5,321 @@
     {
       "appid": 3472040,
       "name": "NBA 2K26",
-      "description": "Rasakan atmosfer pertandingan basket paling autentik dalam NBA 2K26!",
       "price": "Rp.65.000",
       "discount": "",
-      "buy_link": "https://lynk.id/techstation/kyj2330gn1zr/checkout?token=cGFyYW1zPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0x",
+      "buy_link": "http://lynk.id/techstation/kyj2330gn1zr/checkout",
       "platform": "Steam"
     },
     {
       "appid": 2947440,
       "name": "SILENT HILL f",
-      "description": "Horor psikologis terbaru yang penuh misteri dan atmosfer mencekam",
       "price": "Rp.40.000",
       "discount": "",
-      "buy_link": "https://lynk.id/techstation/0wnqj2xz7n3w/checkout?token=cGFyYW1zPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0x",
+      "buy_link": "http://lynk.id/techstation/0wnqj2xz7n3w/checkout",
       "platform": "Steam"
     },
     {
       "appid": 1145350,
       "name": "Hades II",
-      "description": "Masuki dunia mitologi Yunani yang gelap dan epik di Hades II",
       "price": "Rp.40.000",
-      "discount": "42%",
-      "buy_link": "https://lynk.id/techstation/dqgoellpjv2e/checkout?token=cGFyYW1zPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0x",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/dqgoellpjv2e/checkout",
       "platform": "Steam"
     },
     {
-      "appid": 1245620,
-      "name": "ELDEN RING",
-      "description": "The new fantasy action RPG from FromSoftware",
-      "price": "$44.99",
-      "discount": "25%",
-      "buy_link": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+      "appid": 3405690,
+      "name": "FC 26",
+      "price": "Rp.65.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/pey5jw6n8wyj/checkout",
       "platform": "Steam"
     },
     {
-      "appid": 570,
-      "name": "Dota 2",
-      "description": "The most-played game on Steam",
-      "price": "Free",
-      "discount": null,
-      "buy_link": "https://store.steampowered.com/app/570/Dota_2/",
+      "appid": 2417610,
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER",
+      "price": "Rp.40.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/nozvz6n63j9q/checkout",
       "platform": "Steam"
     },
     {
-      "appid": 730,
-      "name": "Counter-Strike 2",
-      "description": "For over two decades, Counter-Strike has offered an elite competitive experience",
-      "price": "Free",
-      "discount": null,
-      "buy_link": "https://store.steampowered.com/app/730/CounterStrike_2/",
+      "appid": 1030300,
+      "name": "Hollow Knight: Silksong",
+      "price": "Rp.40.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/qedn89mj55d1/checkout",
       "platform": "Steam"
     },
     {
-      "appid": 1938090,
-      "name": "Call of Duty®: Black Ops 6",
-      "description": "Call of Duty®: Black Ops 6 is signature Black Ops across a cinematic single-player Campaign",
-      "price": "$69.99",
-      "discount": null,
-      "buy_link": "https://store.steampowered.com/app/1938090/Call_of_Duty_Black_Ops_6/",
+      "appid": 2928600,
+      "name": "Demon Slayer -Kimetsu No Yaiba- The Hinokami Chronicles 2",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/jv592w921z19/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 3489700,
+      "name": "Stellar Blade",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/7m945wk3wzz7/checkout",
       "platform": "Steam"
     },
     {
       "appid": 1174180,
+      "name": "Red Dead Redemption 2 (Offline Only)",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/xnjrxyv0q8qj/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 271590,
+      "name": "Grand Theft Auto V Legacy (Offline Only)",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/1op2347z92q4/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1941540,
+      "name": "Mafia The Old Country",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/zegn5ko0q5go/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2358720,
+      "name": "Black Myth: Wukong",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/0qx6zzjxwvr1/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 493340,
+      "name": "Planet Coaster",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/mr738pepmgp8/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1392860,
+      "name": "Little Nightmares III",
+      "price": "Rp.40.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/7xo25p5kdkgo/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 814380,
+      "name": "Sekiro: Shadows Die Twice",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/7wzyyr318o49/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1904540,
+      "name": "Football Manager 2024",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/m7om9kmvqo43/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2419600,
+      "name": "F1 Manager 2024",
+      "price": "Rp.40.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/2o3dprwqw94p/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2050650,
+      "name": "Resident Evil 4 Remake + Separate Ways",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/oxeg4mmr4rn6/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 3059520,
+      "name": "F1 25 Iconic Edition",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/33kjw7r32rzk/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1687950,
+      "name": "Persona 5 Royal",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/ye4wy67lv00p/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 431960,
+      "name": "Wallpaper Engine",
+      "price": "Rp.10.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/p0dk5gy12pnm/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1791240,
+      "name": "Wuchang: Fallen Feathers",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/9yq94dk3mkvv/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2050650,
+      "name": "Resident Evil 4",
+      "price": "Rp.30.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/vdgjg4ng8xl2/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2828700,
+      "name": "MotoGP 25",
+      "price": "Rp.40.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/y7mwvgyyv5zn/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2787150,
+      "name": "Clair Obscur: Expedition 33",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/le6zv9km6e95/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1888930,
+      "name": "The Last of Us Part I",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/2q3wy9ejwz49/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2689100,
+      "name": "The Last of Us Part II Remastered",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/9o952o8jq8jp/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1245620,
+      "name": "Ghost of Tsushima Director's Cut",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/8klm58g9xqqw/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2322010,
+      "name": "God of War Ragnarok",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/de8w57g844zj/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1593500,
+      "name": "God of War",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/r49rl43jwvoy/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1259970,
+      "name": "eFootball PES 2021",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/km9v1qoeee4k/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1938090,
+      "name": "NBA 2K25",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/wmyo83qo4725/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 990080,
       "name": "Hogwarts Legacy",
-      "description": "Hogwarts Legacy is an immersive, open-world action RPG",
-      "price": "$49.99",
-      "discount": "17%",
-      "buy_link": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/",
+      "price": "Rp.45.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/glv413d317qk/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2578700,
+      "name": "The King is Watching",
+      "price": "Rp.30.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/nr0kn9lm5g2k/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2891000,
+      "name": "Kingdom Come Deliverance II",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/v7ylm06rmkyg/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2873900,
+      "name": "Horizon Zero Dawn Remastered",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/dzvxj67md72z/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1659420,
+      "name": "Horizon Forbidden West: Complete Edition",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/2y5grqe5eq94/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2981800,
+      "name": "Upin & Ipin Universe",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/dje5lwye44gm/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 2314500,
+      "name": "Spider-Man 2",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/3q073mlennon/checkout",
+      "platform": "Steam"
+    },
+    {
+      "appid": 1817190,
+      "name": "Spider-Man Miles Morales",
+      "price": "Rp.35.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/z5822r7xwgxk/checkout",
       "platform": "Steam"
     }
   ]
