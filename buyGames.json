@@ -3,6 +3,14 @@
   "section_subtitle": "Get the best deals on these amazing games",
   "games": [
     {
+      "appid": 3551340,
+      "name": "Football Manager 26",
+      "price": "Rp.65.000",
+      "discount": "",
+      "buy_link": "http://lynk.id/techstation/d4o5z7qd75x7/checkout",
+      "platform": "Steam"
+    },
+    {
       "appid": 3472040,
       "name": "NBA 2K26",
       "price": "Rp.65.000",
